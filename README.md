@@ -78,7 +78,7 @@ Clone the repo:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/blinkit-analysis.git
+git clone https://github.com/ejaz65/blinkit-analysis.git
 cd blinkit-analysis
 Install dependencies:
 
